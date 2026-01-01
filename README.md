@@ -1,6 +1,6 @@
 # ecommerce_app
 
-A new Flutter project.
+A semester Flutter project.
 
 ## Getting Started
 
